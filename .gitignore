@@ -3,6 +3,7 @@
 *~
 .*
 *.py.bak
+*.log
 
 
 /site/
@@ -12,6 +13,7 @@
 /dist/
 /*.egg-info/
 /env/
+/venv*/
 MANIFEST
 coverage.*
 
